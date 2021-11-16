@@ -13,6 +13,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .binaryTarget(name: "ScanditOCR", url: "https://ssl.scandit.com/sdk/download/scandit-datacapture-ios-ocr-6.10.0-xcframework.zip", checksum: "64ce581e9207cd80aee0fd3d52344b4b849bb8b5a77a412eb720a11f7b2b4c25")
+        .binaryTarget(name: "ScanditOCR", url: "https://ssl.scandit.com/sdk/download/scandit-datacapture-ios-ocr-6.10.1-xcframework.zip", checksum: "27e217e9c63aa8e701f0a77b46ec0a93de03b368a5d027705215129b44bdb78b")
     ]
 )
